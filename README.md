@@ -8,15 +8,15 @@ This project reimplements and evaluates the core findings of Zaremba et al. (201
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Task & Dataset Descriptions](#-task--dataset-descriptions)
-- [How It Works](#-how-it-works)
-- [Results](#-results)
-- [Running the Code](#️-running-the-code)
-- [Authors](#️-authors)
-- [License](#-license)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Task & Dataset Descriptions](#task--dataset-descriptions)
+- [How It Works](#how-it-works)
+- [Results](#results)
+- [Running the Code](#️running-the-code)
+- [Authors](#️authors)
+- [License](#license)
 
 ---
 
